@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1",
+    "nome": "Adriana Ventura",
+    "partido": "NOVO",
+    "uf": "SP",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "2",
+    "nome": "Alexandre Padilha",
+    "partido": "PT",
+    "uf": "SP",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/178898.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "3",
+    "nome": "Aline Sleutjes",
+    "partido": "PRD",
+    "uf": "PR",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+    "voto": "Sim",
+    "espectro": "Centro"
+  },
+  {
+    "id": "4",
+    "nome": "Altineu Côrtes",
+    "partido": "PL",
+    "uf": "RJ",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/178849.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "5",
+    "nome": "André Figueiredo",
+    "partido": "PDT",
+    "uf": "CE",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/141483.jpg",
+    "voto": "Não",
+    "espectro": "Centro"
+  },
+  {
+    "id": "6",
+    "nome": "André Janones",
+    "partido": "AVANTE",
+    "uf": "MG",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204486.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "7",
+    "nome": "Antônio Carlos Rodrigues",
+    "partido": "PL",
+    "uf": "SP",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/74693.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "8",
+    "nome": "Bia Kicis",
+    "partido": "PL",
+    "uf": "DF",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204519.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "9",
+    "nome": "Benedita da Silva",
+    "partido": "PT",
+    "uf": "RJ",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/74171.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "10",
+    "nome": "Capitão Alberto Neto",
+    "partido": "PL",
+    "uf": "AM",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204375.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "11",
+    "nome": "Carlos Viana",
+    "partido": "PODEMOS",
+    "uf": "MG",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220608.jpg",
+    "voto": "Sim",
+    "espectro": "Centro"
+  },
+  {
+    "id": "12",
+    "nome": "Carol Dartora",
+    "partido": "PT",
+    "uf": "PR",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220610.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "13",
+    "nome": "Chico Alencar",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/141428.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "14",
+    "nome": "Coronel Meira",
+    "partido": "PL",
+    "uf": "PE",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204438.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "15",
+    "nome": "Daniel Freitas",
+    "partido": "PL",
+    "uf": "SC",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204461.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "16",
+    "nome": "Delegado Paulo Bilynskyj",
+    "partido": "PL",
+    "uf": "SP",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220563.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "17",
+    "nome": "Erika Hilton",
+    "partido": "PSOL",
+    "uf": "SP",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220591.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "18",
+    "nome": "Fernanda Melchionna",
+    "partido": "PSOL",
+    "uf": "RS",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204554.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "19",
+    "nome": "Flávia Arruda",
+    "partido": "PL",
+    "uf": "DF",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/178846.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "20",
+    "nome": "Glauber Braga",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "21",
+    "nome": "Guilherme Boulos",
+    "partido": "PSOL",
+    "uf": "SP",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204500.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "22",
+    "nome": "Hélio Lopes",
+    "partido": "PL",
+    "uf": "RJ",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "23",
+    "nome": "Jack Rocha",
+    "partido": "PT",
+    "uf": "ES",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220631.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "24",
+    "nome": "Jandira Feghali",
+    "partido": "PCdoB",
+    "uf": "RJ",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/74354.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "25",
+    "nome": "Joaquim Passarinho",
+    "partido": "PL",
+    "uf": "PA",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204432.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "26",
+    "nome": "Júlia Zanatta",
+    "partido": "PL",
+    "uf": "SC",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "27",
+    "nome": "Luiz Couto",
+    "partido": "PT",
+    "uf": "PB",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/160541.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "28",
+    "nome": "Luiza Erundina",
+    "partido": "PSOL",
+    "uf": "SP",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204537.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "29",
+    "nome": "Marcel van Hattem",
+    "partido": "NOVO",
+    "uf": "RS",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204545.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "30",
+    "nome": "Maria do Rosário",
+    "partido": "PT",
+    "uf": "RS",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/141455.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "31",
+    "nome": "Nikolas Ferreira",
+    "partido": "PL",
+    "uf": "MG",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "32",
+    "nome": "Orlando Silva",
+    "partido": "PCdoB",
+    "uf": "SP",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/141497.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "33",
+    "nome": "Pastor Henrique Vieira",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220626.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "34",
+    "nome": "Paulo Guedes",
+    "partido": "PT",
+    "uf": "MG",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "35",
+    "nome": "Reginaldo Lopes",
+    "partido": "PT",
+    "uf": "MG",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/141436.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "36",
+    "nome": "Rodrigo de Castro",
+    "partido": "UNIÃO",
+    "uf": "MG",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204398.jpg",
+    "voto": "Sim",
+    "espectro": "Centro"
+  },
+  {
+    "id": "37",
+    "nome": "Sâmia Bomfim",
+    "partido": "PSOL",
+    "uf": "SP",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204471.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "38",
+    "nome": "Sóstenes Cavalcante",
+    "partido": "PL",
+    "uf": "RJ",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "39",
+    "nome": "Talíria Petrone",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204540.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "40",
+    "nome": "Tarcísio Motta",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220566.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "41",
+    "nome": "Vinicius Carvalho",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204473.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "42",
+    "nome": "Zé Neto",
+    "partido": "PT",
+    "uf": "BA",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/74649.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "43",
+    "nome": "Abílio Brunini",
+    "partido": "PL",
+    "uf": "MT",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
+    "voto": "Sim",
+    "espectro": "Direita"
+  },
+  {
+    "id": "44",
+    "nome": "Adriano do Baldy",
+    "partido": "PP",
+    "uf": "GO",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/204383.jpg",
+    "voto": "Abstenção",
+    "espectro": "Centro"
+  },
+  {
+    "id": "45",
+    "nome": "Aguinaldo Ribeiro",
+    "partido": "PP",
+    "uf": "PB",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
+    "voto": "Sim",
+    "espectro": "Centro"
+  },
+  {
+    "id": "46",
+    "nome": "Alceu Moreira",
+    "partido": "MDB",
+    "uf": "RS",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/141372.jpg",
+    "voto": "Sim",
+    "espectro": "Centro"
+  },
+  {
+    "id": "47",
+    "nome": "Alice Portugal",
+    "partido": "PCdoB",
+    "uf": "BA",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/141403.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  },
+  {
+    "id": "48",
+    "nome": "Amom Mandel",
+    "partido": "CIDADANIA",
+    "uf": "AM",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220629.jpg",
+    "voto": "Ausente",
+    "espectro": "Centro"
+  },
+  {
+    "id": "49",
+    "nome": "Ana Paula Leão",
+    "partido": "PP",
+    "uf": "MG",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220555.jpg",
+    "voto": "Sim",
+    "espectro": "Centro"
+  },
+  {
+    "id": "50",
+    "nome": "Ana Pimentel",
+    "partido": "PT",
+    "uf": "MG",
+    "foto": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
+    "voto": "Não",
+    "espectro": "Esquerda"
+  }
+]
